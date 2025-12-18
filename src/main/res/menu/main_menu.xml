@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_mode"
+        android:title="도형"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_color"
+        android:title="색상"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_save"
+        android:title="저장"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_load"
+        android:title="불러오기"
+        android:icon="@android:drawable/ic_menu_gallery"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_clear"
+        android:title="지우기"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="never" />
+
+</menu>
