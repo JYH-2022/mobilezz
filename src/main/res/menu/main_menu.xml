@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/action_mode" android:title="모드" />
-    <item android:id="@+id/action_color" android:title="색상" />
-    <item android:id="@+id/action_save" android:title="저장" />
-    <item android:id="@+id/action_load" android:title="갤러리" />
-    <item android:id="@+id/action_clear" android:title="지우기" />
-    <item android:id="@+id/action_settings" android:title="설정" />
-</menu>
