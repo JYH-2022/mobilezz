@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#87CEEB</color> <!-- 하늘색 -->
-    <color name="colorPrimaryDark">#6BB0D6</color>
-    <color name="colorAccent">#87CEEB</color>
-    <color name="lightGreenBackground">#F0FFF0</color> <!-- 아주 약한 연두색 -->
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-</resources>
